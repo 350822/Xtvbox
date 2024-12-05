@@ -2649,21 +2649,6 @@
 			}
 		},
 		{
-			"key": "农夫与少妇",
-			"name": "🧑‍🌾农夫┃少妇",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-				"分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
-			}
-		},
-		{
 			"key": "✨97电影网✨",
 			"name": "✨97电影网✨",
 			"type": 3,
@@ -2673,26 +2658,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./js/97电影网.json"
-		},
-		{
-			"key": "Aries不承担任何风险-蜜桃屯",
-			"name": "🍑蜜桃┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"ext": {
-				"二次截取": "class=\"block-post&&align=\"center",
-				"数组": "target=\"_blank&&class=\"info-post",
-				"图片": "data-src=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"直接播放": "1",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"搜索url": "https://www.okav13.mom/index.php/vod/search/page/{pg}/wd/{wd}.html",
-				"分类url": "https://www.okav13.mom/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
-				"分类": "国产AV$1#日韩AV$2#欧美AV$3#污污动漫$4#高清字幕$5#顶级主播$9#外流泄密$11#偷窥偷拍$14#传媒剧情$15#强奸乱伦$13#三级伦理$16",
-				"排序": "热门$hits#点赞$up#评分$score"
-			}
 		},
 		{
 			"key": "👙指间的黑客出品",
@@ -2719,9 +2684,9 @@
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "UTF-8",
-				"主页url": "https://www.hahads.com/",
+				"主页url": ""https://www.hahads.com/show/20-----------.html",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类url": "https://www.hahads.com/show/1-{cateId}-------{catePg}---.html",
+				"分类url": "https://www.hahads.com/show/20-{cateId}-------{catePg}---.html",
 				"分类": "大陆👙&香港👙&台湾👙&美国👙&法国👙&英国👙&日本👙&韩国👙&泰国👙&印度👙&西班牙👙&加拿大👙&俄罗斯👙&新加坡👙&其它👙",
 				"分类值": "*"
 			}
@@ -2755,27 +2720,6 @@
 				"搜索链接": "href=\"&&\"",
 				"分类url": "https://ainidj.com/vodtype/{cateId}-{catePg}.html",
 				"分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
-			}
-		},
-		{
-			"key": "指间的黑客",
-			"name": "指间的黑客",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"ext": {
-				"主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
-				"直接播放": "1",
-				"数组": "img\">&&</p",
-				"图片": "src=\"&&\"",
-				"标题": "title-p\">*_self\">&&</a>",
-				"副标题": "</i>&&</span>",
-				"链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
-				"搜索模式": "1",
-				"搜索url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
-				"分类url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/type/id/{cateId}/{catePg}.html",
-				"分类": "自拍偷拍&巨乳波霸&强奸乱伦&人妻熟女&制服丝袜&花季少女&无码露毛&群P多人&人兽人妖&男同女同&韩日专区&欧美色情&成人动漫&三级剧情",
-				"分类值": "20&21&22&23&24&25&26&27&28&29&30&31&32&33"
 			}
 		},
 		{
@@ -3037,6 +2981,62 @@
 				"数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
 				"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html;;z",
 				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
+			}
+		},
+		{
+			"key": "农夫与少妇",
+			"name": "🧑‍🌾农夫┃少妇",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+				"分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
+			}
+		},
+		{
+			"key": "18指间的黑客",
+			"name": "18指间的黑客",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"ext": {
+				"主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
+				"直接播放": "1",
+				"数组": "img\">&&</p",
+				"图片": "src=\"&&\"",
+				"标题": "title-p\">*_self\">&&</a>",
+				"副标题": "</i>&&</span>",
+				"链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
+				"搜索模式": "1",
+				"搜索url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
+				"分类url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/type/id/{cateId}/{catePg}.html",
+				"分类": "自拍偷拍&巨乳波霸&强奸乱伦&人妻熟女&制服丝袜&花季少女&无码露毛&群P多人&人兽人妖&男同女同&韩日专区&欧美色情&成人动漫&三级剧情",
+				"分类值": "20&21&22&23&24&25&26&27&28&29&30&31&32&33"
+			}
+		},
+		{
+			"key": "Aries不承担任何风险-蜜桃屯",
+			"name": "18🍑蜜桃┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"ext": {
+				"二次截取": "class=\"block-post&&align=\"center",
+				"数组": "target=\"_blank&&class=\"info-post",
+				"图片": "data-src=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"直接播放": "1",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"搜索url": "https://www.okav13.mom/index.php/vod/search/page/{pg}/wd/{wd}.html",
+				"分类url": "https://www.okav13.mom/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+				"分类": "国产AV$1#日韩AV$2#欧美AV$3#污污动漫$4#高清字幕$5#顶级主播$9#外流泄密$11#偷窥偷拍$14#传媒剧情$15#强奸乱伦$13#三级伦理$16",
+				"排序": "热门$hits#点赞$up#评分$score"
 			}
 		},
 		{
