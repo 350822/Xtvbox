@@ -2953,6 +2953,16 @@
 			}
 		},
 		{
+			"key": "AV_Netflav",
+                        "name": "🔞Netflav",
+                        "type": 3,
+                        "api": "csp_Netflav",
+                        "searchable": 1,
+                        "quickSearch": 0,
+                        "filterable": 0,
+                        "jar":"./lib/netflav.jar"
+                },
+		{
 			"key": "JAVSB",
 			"name": "🔞JAVSB",
 			"type": 3,
