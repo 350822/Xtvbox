@@ -164,7 +164,7 @@
 		},
 		{
 			"key": "Aries不承担任何风险-360影视",
-			"name": "3️⃣360┃影视",
+			"name": "3️⃣360┃影视-伦理",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
@@ -367,8 +367,8 @@
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "UTF-8",
-				"主页url": "https://www.yumv.cn/vodtype/dianying---伦理--------.html",
-				"分类url": "https://www.yumv.cn/vodtype/dianying-{cateId}--伦理-----{catePg}---.html",
+				"主页url": "https://www.yumv.cn/vodshow/dianying---伦理--------.html",
+				"分类url": "https://www.yumv.cn/vodshow/dianying-{cateId}--伦理-----{catePg}---.html",
 				"分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
 				"分类值": "*",
 				"数组": "默认--wrapper-pic\"&&</li>||搜索--wrapper-pic\"&&</li>",
