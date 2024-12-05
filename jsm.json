@@ -2952,12 +2952,6 @@
 				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
 			}
 		},
-		{"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-                },
 		{
 			"key": "JAVSB",
 			"name": "🔞JAVSB",
