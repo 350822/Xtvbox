@@ -862,7 +862,595 @@
 				"分类url": "https://www.kissavtv.com/index/getstylemvs/id/{cateId}/sort/update/page/{catePg};;z"
 			}
 		},
-		{
+                                  {
+                                  "key": "色猫",
+            "name": "🔞色猫采集",
+            "type": 1,
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产自拍",
+                "日本无码",
+                "日本有码",
+                "中文字幕",
+                "欧美精品",
+                "成人动漫",
+                "日本素人",
+                "高清名优",
+                "三级伦理",
+                "网红主播",
+                "映画传媒",
+                "人妻熟女",
+                "口爆颜射",
+                "萝莉少女",
+                "SM调教",
+                "美乳巨乳",
+                "短视频",
+                "制服诱惑",
+                "女同性爱",
+                "AI换脸",
+                "多人群交",
+                "翹臀美尻",
+                "丝袜美腿",
+                "精选独家",
+                "貧乳小奶",
+                "探花系列"
+            ]
+                                 },
+                                  {
+                                     "key": "奶香m",
+                                    "name": "🔞采集.奶香香",
+                                     "type": 1,
+                                    "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+                                    "searchable": 1
+                                 },
+                                  {
+                          "key": "葡萄",
+                         "name": "🔞采集.葡萄资源",
+                         "type": 1,
+                          "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+                          "searchable": 1
+                                 },
+                                {
+            "key": "森林",
+            "name": "🔞采集.森林资源备",
+            "type": 1,
+            "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+                               },
+                              {
+            "key": "森林",
+            "name": "🔞采集.森林资源主",
+            "type": 1,
+            "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+                               },
+                                {
+            "key": "探探",
+            "name": "🔞采集.探探资源1",
+            "type": 1,
+            "api": "https://apitantanzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+                               },
+                                      {
+            "key": "探探",
+            "name": "🔞采集.探探资源2",
+            "type": 1,
+            "api": "https://apitantanzy.com/api.php/provide/vod/?ac=detail",
+            "searchable": 1
+                               },
+                      {
+            "key": "探探",
+            "name": "🔞探探资源采集",
+            "type": 0,
+            "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "精品推荐",
+                "国产视频",
+                "主播直播",
+                "日本无码",
+                "中文字幕",
+                "日本有码",
+                "巨乳美乳",
+                "熟女人妻",
+                "少女萝莉",
+                "三级伦理",
+                "强奸乱伦",
+                "制服丝袜",
+                "角色扮演",
+                "口交颜射",
+                "自拍偷拍",
+            ]
+        },
+                                 {
+            "key": "草柳",
+            "name": "🔞采集.草榴综合资源",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+            "searchable": 1
+                               },
+                              {
+            "key": "草柳",
+            "name": "🔞采集.草榴倒叙资源",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/json/",
+            "searchable": 1
+                              },
+                              {
+            "key": "草柳",
+            "name": "🔞采集.草榴倒叙资源备",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/xml/",
+            "searchable": 1
+                              },
+                                {
+            "key": "草柳",
+            "name": "🔞采集.草榴综合资源备",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
+            "searchable": 1
+                              },
+                              {
+            "key": "滴滴",
+            "name": "🔞采集.滴滴资源",
+            "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml/?ac=list",
+            "searchable": 1
+                               },
+                              {
+            "key": "大地专场",
+            "name": "🔞大地采集",
+            "type": 0,
+            "api": "https://dadiapi.com/api.php",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "日韩无码",
+                "强奸乱伦",
+                "欧美精品",
+                "国产精品",
+                "人妻系列",
+                "中文字幕",
+                "动漫精品",
+                "伦理影片",
+                "日韩精品",
+                "制服诱惑",
+                "自拍偷拍",
+                "AV明星",
+                "3P合辑",
+                "巨乳系列",
+                "颜射系列",
+                "口交视频",
+                "自慰系列",
+                "SM重味",
+                "教师学生",
+                "大秀视频",
+                "AV明星1"
+            ]
+                           },
+                        {
+            "key": "大地",
+            "name": "🔞采集.大地资源飞飞2",
+            "type": 1,
+            "api": "https://dadiapi.com/feifei2/",
+            "searchable": 1
+                              },
+                         {
+            "key": "大地",
+            "name": "🔞采集.大地资源飞飞",
+            "type": 1,
+            "api": "https://dadiapi.com/feifei/",
+            "searchable": 1
+                              },
+                          {
+            "key": "大地",
+            "name": "🔞采集.大地资源通用",
+            "type": 1,
+            "api": "https://dadiapi.com/api.php",
+            "searchable": 1
+                              },
+                              {
+            "key": "辣椒",
+            "name": "🔞采集.辣椒资源",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/at/json/",
+            "searchable": 1
+                              },
+                               {
+                  "key": "辣椒",
+            "name": "🔞采集.辣椒资源视频列表",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
+            "searchable": 1
+                              },
+                                   {
+                  "key": "辣椒",
+            "name": "🔞采集.辣椒资源视频详情",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=detail",
+            "searchable": 1
+                              },
+                            {
+                  "key": "115",
+            "name": "🔞采集.115资源",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+                              },
+                             {
+            "key": "玉兔专场",
+            "name": "🔞玉兔采集",
+            "type": 1,
+            "api": "https://apiyutu.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "精品推荐",
+                "国产精品",
+                "主播秀色",
+                "日本有码",
+                "日本无码",
+                "中文字幕",
+                "童颜巨乳",
+                "性感人妻",
+                "强奸乱伦",
+                "欧美情色",
+                "童真萝莉",
+                "三级伦理",
+                "卡通动漫",
+                "丝袜OL",
+                "口爆颜射",
+                "自拍偷拍",
+                "日本片商",
+                "Cosplay",
+                "素人自拍",
+                "台湾色情",
+                "韩国自拍",
+                "性感港姐",
+                "东南亚情色",
+                "凌辱束缚",
+                "剧情介绍",
+                "多P 3P",
+                "91系列",
+                "网红系列",
+                "野外系列",
+                "女仆系列",
+                "学生中出",
+                "性感旗袍",
+                "兽耳作品",
+                "瑜伽裤",
+                "骚货护士",
+                "及膝袜",
+                "网曝系列",
+                "麻豆传媒",
+                "女同人妖",
+                "恋腿癖"
+            ]
+                            },
+                   {
+                  "key": "玉兔",
+            "name": "🔞采集.玉兔资源1",
+            "type": 1,
+            "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+            "searchable": 1
+                              },
+                   {
+                  "key": "丝袜",
+            "name": "🔞采集.丝袜综合资源",
+            "type": 1,
+            "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json/",
+            "searchable": 1
+                              },
+                {
+                  "key": "丝袜",
+            "name": "🔞采集.丝袜资源",
+            "type": 1,
+            "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
+            "searchable": 1
+                              },
+                 {
+            "key": "丝袜",
+            "name": "🔞丝袜采集",
+            "type": 1,
+            "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "亚洲有码",
+                "亚洲无码",
+                "欧美情色",
+                "中文字幕",
+                "动漫卡通",
+                "美女主播",
+                "人妻熟女",
+                "强奸乱伦",
+                "日韩伦理",
+                "国产自拍",
+                "亚洲资源",
+                "精品海外",
+                "4K91大神",
+                "AV解说"
+            ]
+        },  
+                 {
+                  "key": "色猫1",
+            "name": "🔞采集.色猫资源1",
+            "type": 1,
+            "api": "https://caiji.semaozy.net/inc/api.php",
+            "searchable": 1
+                              },
+                     {
+            "key": "色猫",
+            "name": "🔞色猫采集",
+            "type": 1,
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产自拍",
+                "日本无码",
+                "日本有码",
+                "中文字幕",
+                "欧美精品",
+                "成人动漫",
+                "日本素人",
+                "高清名优",
+                "三级伦理",
+                "网红主播",
+                "映画传媒",
+                "人妻熟女",
+                "口爆颜射",
+                "萝莉少女",
+                "SM调教",
+                "美乳巨乳",
+                "短视频",
+                "制服诱惑",
+                "女同性爱",
+                "AI换脸",
+                "多人群交",
+                "翹臀美尻",
+                "丝袜美腿",
+                "精选独家",
+                "貧乳小奶",
+                "探花系列"
+            ]
+                            },
+              {
+            "key": "番外",
+            "name": "🔞番外采集",
+            "type": 1,
+            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "群交淫乱",
+                "偷拍自拍",
+                "制服丝袜",
+                "无码专区",
+                "卡通动漫",
+                "中文字幕",
+                "欧美性爱",
+                "巨乳美乳",
+                "国产裸聊",
+                "国产自拍",
+                "国产盗摄",
+                "伦理三级",
+                "女同性恋",
+                "少女萝莉",
+                "人妖系列",
+                "虚拟VR"
+            ]
+                             },
+                     {
+            "key": "乐播",
+            "name": "️🔞乐播采集",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "亚洲情色",
+                "国产主播",
+                "国产自拍",
+                "无码专区",
+                "欧美性爱",
+                "熟女人妻",
+                "强奸乱伦",
+                "巨乳美乳",
+                "中文字幕",
+                "制服诱惑",
+                "女同性恋",
+                "卡通动画",
+                "视频伦理",
+                "少女萝莉",
+                "重口色情",
+                "人兽性交"
+            ]
+                              },
+                   {
+            "key": "msv ",
+            "name": "🔞美少女采集 ",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "ysj ",
+            "name": "🔞饮水机采集 ",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+                              },
+ {
+            "key": "bp ",
+            "name": "🔞白嫖 ",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "hav ",
+            "name": "🔞黄艾薇 ",
+            "type": 0,
+            "api": "https://www.pgxdy.com/api/xml.php ",
+            "searchable": 1,
+            "changeable": 1
+                   },
+              {
+            "key": "极品 ",
+            "name": "🔞极品资源",
+            "type": 0,
+            "api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "changeable": 1
+                   },
+         {
+            "key": "百万",
+            "name": "🔞百万资源站",
+            "type": 0,
+            "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1
+                   },
+           {
+            "key": "百万",
+            "name": "🔞百万资源站json",
+            "type": 0,
+            "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "changeable": 1
+                   },
+        {
+            "key": "GAY",
+            "name": "🔞GAY资源网",
+            "type": 0,
+            "api": "https://gayapi.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "changeable": 1
+                   },
+           {
+            "key": "GAY",
+            "name": "🔞GAY资源网json",
+            "type": 0,
+            "api": "https://gayapi.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "changeable": 1
+                   },
+        {
+            "key": "优优",
+            "name": "🔞优优资源网json",
+            "type": 0,
+            "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+                   },
+           {
+            "key": "优优",
+            "name": "🔞优优资源网",
+            "type": 0,
+            "api": "hhttps://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1
+                   },
+             {
+            "key": "jingpinx.com",
+            "name": "精品",
+            "type": 1,
+            "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "黄瓜",
+            "name": "黄瓜资源站",
+            "type": 1,
+            "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+      {
+            "key": "黄瓜",
+            "name": "黄瓜资源站xml",
+            "type": 1,
+            "api": "https://www.avre06.com/api.php/Prodao/vod/at/xml",
+            "searchable": 1,
+            "filterable": 1
+        },
+         {
+            "key": "老色逼",
+            "name": "老色逼资源",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+             {
+            "key": "奥斯卡",
+            "name": "奥斯卡资源",
+            "type": 1,
+            "api": "https://askzyys.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+          {
+            "key": "色戒",
+            "name": "色戒X资源",
+            "type": 1,
+            "api": "https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "阿坤",
+            "name": "JKUN资源站",
+            "type": 1,
+            "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 1
+        },
+       {
+            "key": "易看",
+            "name": "易看资源站伦理",
+            "type": 1,
+            "api": "https://api.ekanapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+           {
+            "key": "麻豆",
+            "name": "🔞91麻豆|影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "ext": {
+                "图片": "data-src=\"&&\"",
+                "直接播放": "1",
+                "分类url": "https://www.91md.ws/{cateId}/{catePg}.html",
+                "分类": "麻豆$麻豆视频#91$91制片厂#天美$天美传媒#蜜桃$蜜桃传媒#皇家$皇家华人#星空$星空传媒#精东$精东影业#乐播$乐播传媒#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#玩偶$玩偶姐姐#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog#萝莉社$萝莉社#性世界$性世界#日本无码$日本无码#国产视频$国产视频#"
+            }
+        },
+                               {
 			"key": "Miss",
 			"name": "Miss",
 			"type": 3,
