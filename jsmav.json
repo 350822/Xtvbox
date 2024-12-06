@@ -355,6 +355,71 @@
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#午夜剧场$33||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空||空"
 			}
 		},
+		 {
+            "key": "18AV",
+            "name": "🔞18AV┃直连",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        },
+        {
+            "key": " AV影院",
+            "name": " AV影院",
+            "type": 3,
+            "jar": "./lib/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "主页url": "https://wyaslcwgroup.cfd/",
+                "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
+                "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+            }
+        },
+        {
+            "key": "av01",
+            "name": "💗┃💋AV01┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "playerType": 2,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "ext": {
+                "数组": "class=\"col-sm-6 col-md-4&&class=\"duration&&</div>",
+                "直接播放": "1",
+                "请求头": "手机",
+                "主页url": "https://www.av01.tv/tw",
+                "搜索url": "https://www.av01.tv/tw/search/videos?search_query={wd}&page={pg}",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "分类url": "https://www.av01.tv/tw/{cateId}?page={catePg}",
+                "分类": "BD有码$videos/bd-censored#BD无码$videos/bd-uncensored#有码$videos/censored#无码$videos/uncensored/#FC2$videos/bd"
+            }
+        },
+        {
+            "key": "MissAV",
+            "name": "🔞MissAV",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.65
+            }
+        },
 		{
 			"key": "✨宇逍遥✨",
 			"name": "✨宇逍遥-伦理✨",
