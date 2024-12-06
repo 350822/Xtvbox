@@ -17,8 +17,29 @@
       "searchable": 0,
       "quickSearch": 0
     },
-   
-    {
+    
+	{
+      "key": "api.sexnguon.com",
+      "name": "🔞Sexnguon✈️",
+      "type": 1,
+      "api": "http://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
+    },    
+	{"key":"老色逼资源(采集)🔞","name":"🔞老色逼资源(采集)💯","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},        
+    {"key":"麻豆视频49zp.cc(采集)🔞","name":"🔞麻豆视频49zp.cc(采集已关闭)💯","type":1,"api":"https://www.92nr.cc/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key":"麻豆视频49zp.cc2(采集)🔞","name":"🔞麻豆视频49zp.cc2(采集已关闭)💯","type":1,"api":"http://www.34pf.cc/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key":"麻豆视频49zp.cc3(采集)🔞","name":"🔞麻豆视频49zp.cc3(采集已关闭)💯","type":1,"api":"https://www.43kh.cc/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key":"蜜桃社(采集)🔞","name":"🔞蜜桃社(采集)💯","type":1,"api":"https://mitaoshe.cyou/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key":"javday(采集)🔞","name":"🔞JAVday(采集已关闭)💯","type":1,"api":"https://javday.tv/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key":"黄色仓库(采集)🔞","name":"🔞黄色仓库(采集)🔗💯","type":1,"api":"http://234444.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},        
+    {"key":"998资源(采集)🔞","name":"🔞998资源(采集)💯","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    
+	{
       "key": "美少女",
       "name": "🔞美少女采集",
       "type": 0,
@@ -27,7 +48,30 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
+    {"key":"*91麻豆x","name":"🔞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆2🔞","name":"🔞91麻豆2","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆3x","name":"🔞91麻豆3","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆4x","name":"🔞91麻豆4","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆5🔞","name":"🔞91麻豆5","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	
+	{
+      "key": "黄瓜",
+      "name": "🔞黄瓜[采集]",
+      "type": 1,
+      "api": "https://www.zy018.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [],"style": {"type": "rect","ratio": 1.6}
+    },
+    {
+      "key": "秀人",
+      "name": "🔞秀人[采集]",
+      "type": 1,
+      "api": "https://xiuren.site/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [],"style": {"type": "rect","ratio": 1.6}
+    },
     {
       "key": "*白嫖资源",
       "name": "🔞白嫖资源",
