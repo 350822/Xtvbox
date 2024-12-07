@@ -46,8 +46,8 @@
     {"key":"998资源(采集)🔞","name":"🔞998资源(采集)💯","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key":"滴滴资源(采集)🔞","name":"🔞滴滴资源(采集)💯","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key":"大地资源(采集)🔞","name":"🔞大地资源(采集)💯","type":1,"api":"https://dadiapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集)💯","type":0,"api":"https://askzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.33}},
-	{"key":"色戒资源(采集)🔞","name":"🔞色戒X伦理(采集)💯","type":1,"api":"https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}}, 
+	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集有问题)💯","type":0,"api":"https://askzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.33}},
+	 
 	{
       "key": "美少女",
       "name": "🔞采集.美少女",
@@ -70,7 +70,7 @@
       "key": "*黄瓜资源",
       "name": "🔞采集.黄瓜资源(老新)",
       "type": 1,
-      "api": "https://www.avre06.com/api.php/Prodao/vod/at/xml",
+      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
