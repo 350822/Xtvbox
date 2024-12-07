@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "91md",
-      "name": "🔞91麻豆合集①",
+      "name": "🔞91麻豆①",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
@@ -10,21 +10,21 @@
       "filterable": 0
     },
 	 {
-      "key": "*91麻豆",
-      "name": "🔞91麻豆合集②",
+      "key": "*91麻豆②",
+      "name": "🔞91麻豆②",
       "type": 1,
       "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/",
       "tag": "qb,tj,rm",
       "categories": []
     },
   
-    {"key":"*91麻豆x","name":"🔞91麻豆合集③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆2🔞","name":"🔞91麻豆合集④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆3x","name":"🔞91麻豆合集⑤","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆4x","name":"🔞91麻豆合集⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆5🔞","name":"🔞91麻豆合集⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"*91麻豆x","name":"🔞91麻豆③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆2🔞","name":"🔞91麻豆④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆3x","name":"🔞91麻豆⑤","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆4x","name":"🔞91麻豆⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
-    {
+	{
       "key": "api.sexnguon.com",
       "name": "🔞色南国✈️",
       "type": 1,
@@ -46,9 +46,10 @@
     {"key":"998资源(采集)🔞","name":"🔞998资源(采集)💯","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key":"滴滴资源(采集)🔞","name":"🔞滴滴资源(采集)💯","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key":"大地资源(采集)🔞","name":"🔞大地资源(采集)💯","type":1,"api":"https://dadiapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集已失效)💯","type":0,"api":"https://askzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.33}},
-	
-   { "key": "美少女",
+	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集)💯","type":0,"api":"https://askzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.33}},
+	{"key":"色戒资源(采集)🔞","name":"🔞色戒X伦理(采集)💯","type":1,"api":"https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}}, 
+	{
+      "key": "美少女",
       "name": "🔞采集.美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
@@ -56,8 +57,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	
-   {
+{
       "key": "黄瓜",
       "name": "🔞采集.黄瓜资源",
       "type": 1,
@@ -66,17 +66,24 @@
       "changeable": 1,
       "categories": [],"style": {"type": "rect","ratio": 1.6}
     },
-	
-   {
+ {
       "key": "*黄瓜资源",
-      "name": "🔞采集.黄瓜资源",
+      "name": "🔞采集.黄瓜资源(老新)",
       "type": 1,
-      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
+      "api": "https://www.avre06.com/api.php/Prodao/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-	
+{
+      "key": "*黄瓜资源",
+      "name": "🔞采集.黄瓜资源（新老）",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },	
     {
       "key": "秀人",
       "name": "🔞采集.秀人",
