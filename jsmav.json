@@ -47,7 +47,7 @@
                {"key":"PigAV","name":"PigAV","type":3,"api":"csp_Pig","searchable":1,"filterable":1},
                {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
                {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1,"filterable":1},
-               {"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
+               {"key":"Hanime","name":"Hanime动漫","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
 
 	{
             "key": "csp_XBPQ_JAV目錄大全",
@@ -924,22 +924,6 @@
 				"分类标题": "alt=\"&&\"",
 				"分类ID": "/index/getStyleMvs/id/&&\"",
 				"分类url": "https://www.kissavtv.com/index/getstylemvs/id/{cateId}/sort/update/page/{catePg};;z"
-			}
-		},
-        
-       
-       {
-			"key": "Miss",
-			"name": "Missav",
-			"type": 3,
-			"api": "csp_Miss",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
 			}
 		}
 	],
