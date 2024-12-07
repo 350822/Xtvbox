@@ -17,18 +17,16 @@
       "tag": "qb,tj,rm",
       "categories": []
     },
-   
-	
-	
-	{"key":"*91麻豆x","name":"🔞91麻豆1","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆2🔞","name":"🔞91麻豆2","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆3x","name":"🔞91麻豆3","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆4x","name":"🔞91麻豆4","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆5🔞","name":"🔞91麻豆5","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+  
+	{"key":"*91麻豆x","name":"🔞91麻豆③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆2🔞","name":"🔞91麻豆④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆3x","name":"🔞91麻豆⑤","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆4x","name":"🔞91麻豆⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
 	{
       "key": "api.sexnguon.com",
-      "name": "🔞Sexnguon✈️",
+      "name": "🔞色南国✈️",
       "type": 1,
       "api": "http://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
@@ -46,13 +44,13 @@
     {"key":"javday(采集)🔞","name":"🔞JAVday(采集已关闭)💯","type":1,"api":"https://javday.tv/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key":"黄色仓库(采集)🔞","name":"🔞黄色仓库(采集)🔗💯","type":1,"api":"http://234444.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},        
     {"key":"998资源(采集)🔞","name":"🔞998资源(采集)💯","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-    {"key":"滴滴资源(采集)🔞","name":"🔞滴滴资源(采集)💯","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key":"滴滴资源(采集)🔞","name":"🔞滴滴资源(采集)💯","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key":"大地资源(采集)🔞","name":"🔞大地资源(采集)💯","type":1,"api":"https://dadiapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集)💯","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集)💯","type":0,"api":"https://askzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.33}},
 	{"key":"色戒资源(采集)🔞","name":"🔞色戒X伦理(采集)💯","type":1,"api":"https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}}, 
 	{
       "key": "美少女",
-      "name": "🔞美少女采集",
+      "name": "🔞采集.美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -62,7 +60,7 @@
 	
 	{
       "key": "黄瓜",
-      "name": "🔞黄瓜[采集]",
+      "name": "🔞采集.黄瓜资源",
       "type": 1,
       "api": "https://www.zy018.com/api.php/provide/vod/",
       "searchable": 1,
@@ -72,7 +70,7 @@
 	
 	{
       "key": "*黄瓜资源",
-      "name": "🔞黄瓜资源",
+      "name": "🔞采集.黄瓜资源",
       "type": 1,
       "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
       "searchable": 1,
@@ -82,7 +80,7 @@
 	
     {
       "key": "秀人",
-      "name": "🔞秀人[采集]",
+      "name": "🔞采集.秀人",
       "type": 1,
       "api": "https://xiuren.site/api.php/provide/vod/",
       "searchable": 1,
@@ -91,7 +89,7 @@
     },
     {
       "key": "*白嫖资源",
-      "name": "🔞白嫖资源",
+      "name": "🔞采集.白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -101,7 +99,7 @@
    
     {
       "key": "*淫水机资源",
-      "name": "🔞淫水机",
+      "name": "🔞采集.淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -110,7 +108,7 @@
     },
     {
       "key": "*小湿妹资源",
-      "name": "🔞小湿妹",
+      "name": "🔞采集.小湿妹",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
@@ -119,7 +117,7 @@
     },
     {
       "key": "*香奶儿资源",
-      "name": "🔞香奶儿",
+      "name": "🔞采集.香奶儿",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -129,7 +127,7 @@
     
     {
       "key": "大地采集",
-      "name": "🔞大地资源②",
+      "name": "🔞采集.大地资源②",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -139,7 +137,7 @@
     },
      {
       "key": "zp053",
-      "name": "🔞大地资源①",
+      "name": "🔞采集.大地资源①",
       "type": 0,
       "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -148,7 +146,7 @@
     },
     {
       "key": "*大地资源",
-      "name": "🔞大地资源③",
+      "name": "🔞采集.大地资源③",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 1,
@@ -158,7 +156,7 @@
    
     {
       "key": "zp128",
-      "name": "🔞鲨鱼影视①",
+      "name": "🔞采集.鲨鱼影视①",
       "type": 0,
       "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
       "searchable": 1,
@@ -168,7 +166,7 @@
     
       {
       "key": "zp129",
-      "name": "🔞鲨鱼资源②",
+      "name": "🔞采集.鲨鱼资源②",
       "type": 0,
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -177,7 +175,7 @@
     },
 	 {
       "key": "*鲨鱼资源",
-      "name": "🔞鲨鱼资源③",
+      "name": "🔞采集.鲨鱼资源③",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -187,7 +185,7 @@
    
     {
       "key": "zp011",
-      "name": "🔞78乐播①",
+      "name": "🔞采集.乐播①",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -197,7 +195,7 @@
 	
     {
       "key": "乐播",
-      "name": "️🔞乐播采集②",
+      "name": "️🔞采集.乐播采集②",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "",
@@ -224,7 +222,7 @@
 	
     {
       "key": "zp059",
-      "name": "🔞番号资源①",
+      "name": "🔞采集.番号资源①",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -234,7 +232,7 @@
 	
 	{
       "key": "番号资源",
-      "name": "🔞番号资源②",
+      "name": "🔞采集.番号资源②",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -242,7 +240,7 @@
     },
     {
       "key": "番外",
-      "name": "🔞番外采集③",
+      "name": "🔞采集.番外采集③",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "playUrl": "",
@@ -279,7 +277,7 @@
     
     {
       "key": "zp123",
-      "name": "🔞色猫资源④",
+      "name": "🔞采集.色猫资源④",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -289,7 +287,7 @@
     
     {
       "key": "zp124",
-      "name": "🔞色猫采集资源③",
+      "name": "🔞采集.色猫资源③",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php",
       "searchable": 1,
@@ -298,7 +296,7 @@
     },
 	{
       "key": "zp125",
-      "name": "🔞色猫采集资源②",
+      "name": "🔞采集.色猫资源②",
       "type": 0,
       "api": "https://caiji.semaozy.net/inc/api.php",
       "searchable": 1,
@@ -307,7 +305,7 @@
     },
     {
       "key": "*色猫资源",
-      "name": "🔞色猫资源①",
+      "name": "🔞采集.色猫资源①",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 0,
@@ -316,7 +314,7 @@
 	
     {
       "key": "老鸭资源",
-      "name": "🔞老鸭资源",
+      "name": "🔞采集.老鸭资源",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 0,
@@ -333,7 +331,7 @@
     },
     {
       "key": "阿坤",
-      "name": "🔞JKUN资源站",
+      "name": "🔞采集.JKUN资源站",
       "type": 1,
       "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -342,7 +340,7 @@
 	
 	{
       "key": "jingpinx.com",
-      "name": "精品",
+      "name": "🔞采集.精品",
       "type": 1,
       "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -354,7 +352,7 @@
     
 	{
 	  "key": "hav ",
-      "name": "🔞黄艾薇 ",
+      "name": "🔞采集.黄艾薇 ",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php ",
       "searchable": 1,
@@ -363,8 +361,8 @@
 	
     {
       "key": "极品 ",
-      "name": "🔞极品资源",
-      "type": 0,
+      "name": "🔞采集.极品资源",
+      "type": 1,
       "api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1
@@ -422,7 +420,7 @@
     },
 	 {
       "key": "探探",
-      "name": "🔞探探资源②",
+      "name": "🔞采集.探探资源②",
       "type": 0,
       "api": "https://apittzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
@@ -430,7 +428,7 @@
 	
     {
       "key": "*探探资源",
-      "name": "🔞探探资源③",
+      "name": "🔞采集.探探资源③",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/",
       "searchable": 0,
