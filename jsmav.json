@@ -52,22 +52,7 @@
                {"key":"s嗷嗷","name":"️nowav","type":3,"api":"csp_nowav","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/js/881.json"},
                {"key":"s嗷嗷1","name":"️nowav1","type":3,"api":"csp_nowav1","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/js/now1.json"},
                {"key":"s嗷嗷2","name":"️nowav2","type":3,"api":"csp_nowav2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/js/now2.json"},
-			    
-		{
-            "key": "csp_JavBus",
-            "name": "🔞JavBus(翻)",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            },
-            "timeout": 60
-        },
+	
 
 	    {
             "key": "csp_XBPQ_JAV目錄大全",
