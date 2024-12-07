@@ -361,9 +361,42 @@
                 "伦理片"
                  ]
          },
+	{
+            "key": "量子",
+            "name": "🈲🔞成人频道[量子]",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+	   {
+            "key": "非凡资源",
+            "name": "🟣🈲🔞成人频道[非凡]",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://ffzyplayer.com/?url=",
+            "categories": [
+                "伦理片"
+            ]
+        },
 		
-		
-		        {
+	 {
+            "key": "虎牙",
+            "name": ""🈲 成人频道[虎牙]",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/?ac=listfrom/hym3u8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+		{
                 "key": "樱花",
       "name": "🈲 成人频道[樱花🌸]",
       "type": 1,
