@@ -55,6 +55,54 @@
 	{"key": "百万", "name": "18+百万资源", "type": 0, "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 	{"key":"gay资源","name":"18+gay资源","type":1,"api":"https://gayapi.com/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	
+	 {
+            "key": "虎牙",
+            "name": "🟣虎牙伦理1",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/?ac=listfrom/hym3u8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+        {
+            "key": "非凡资源",
+            "name": "🟣非凡伦理2",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://ffzyplayer.com/?url=",
+            "categories": [
+                "伦理片"
+            ]
+        },
+	{
+            "key": "鸡坤资源",
+            "name": "🈲🔞鸡坤-精品🐵",
+            "type": 1,
+            "api": "https://jkunzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+       
+   
+       
+        {
+            "key": "量子",
+            "name": "🈲🔞量子-花海",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+       
+     
 	{
       "key": "美少女",
       "name": "🔞采集.美少女",
