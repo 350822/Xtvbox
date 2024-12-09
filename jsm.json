@@ -88,64 +88,8 @@
                 "页面代理": "127.0.0.1:10075"
             }
         },
-		    {
-      "key": "hipy_js_29片库[密]",
-      "name": "29片库[密](jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/29片库[密].js"
-    },
-
-  {
-      "key": "hipy_js_色库[密]",
-      "name": "色库[密](jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/色库[密].js"
-    },
-    {
-      "key": "hipy_js_黑料不打烊-z",
-      "name": "黑料不打烊-z密(jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/黑料不打烊-z.js"
-    },
- {
-      "key": "hipy_js_黑料不打烊[密]",
-      "name": "黑料不打烊[密](jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/黑料不打烊[密].js"
-    },
-    {
-      "key": "hipy_js_番号资源[密]",
-      "name": "番号资源[密](jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/番号资源[密].js"
-    },
- 	
-		{
+	
+	{
 			"key": "天天影视",
 			"name": "🗓天天┃影视-伦理",
 			"type": 3,
