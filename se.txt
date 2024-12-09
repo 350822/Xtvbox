@@ -1,5 +1,5 @@
 {
-  "spider": "./pg1.jar?md5=7633f8ea346c082b7aa163be58aed023",
+  "spider": "./lib/pg1.jar?md5=7633f8ea346c082b7aa163be58aed023",
   "sites": [
      {
       "key": "hipy_js_29片库[密]",
@@ -12,17 +12,7 @@
       "order_num": 0,
       "ext": "./lib/29片库[密].js"
     },
-{
-      "key": "hipy_js_36直播[密]",
-      "name": "36直播[密](jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/36直播[密].js"
-    },
+
   {
       "key": "hipy_js_色库[密]",
       "name": "色库[密](jygldj)",
@@ -77,28 +67,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/29片库[密].js"
-    },
-    {
-      "key": "hipy_js_36直播[密]",
-      "name": "36直播[密](jygldj)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/36直播[密].js"
     }
-  ],
- "lives": [{
-      "name": "4号楼",
-      "type": 0,
-      "url": "./lib/4号.txt",
-      "playerType": 2
-    },
-    {
-      "name": "5号",
-      "type": 0,
-      "url": "./lib/5号.txt"
-    }]
+  ]
 }
