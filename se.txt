@@ -1,5 +1,5 @@
 {
-  "spider": "./pg1.jar?md5=7633f8ea346c082b7aa163be58aed023",
+  "spider": "./pg1.jar",
   "sites": [
      {
       "key": "hipy_js_29片库[密]",
