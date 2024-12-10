@@ -2,23 +2,11 @@
   "spider": "./pg.jar",
 
   "sites": [
-    {
-      "key": "timizy",
-      "name": "🌞官源|解析",
-      "type": 1,
-      "api": "https://vipcj.timizy.com/api.php/provide/vod",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "其他剧",
-        "儿童"
-      ]
+     {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
     },
 
     {
