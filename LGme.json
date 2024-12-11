@@ -1,15 +1,237 @@
 {
   "spider": "./pg.jar",
 
-     "sites": [
+  "sites": [
+    
      {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
       "style": {
         "type": "rect",
         "ratio": 1.5
       }
     },
+     {
+            "key": "13AV",
+            "name": "🔞13AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://13av.com/",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
+                "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
+            }
+        },
+   
+     {
+            "key": "Miss",
+            "name": "Miss",
+            "type": 3,
+            "api": "csp_Miss",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+
+   {
+    "key": "sqhub",
+    "name": "sqhub",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./lib/XBPQ.jar",
+    "ext": {
+        "主页url": "https://sex166.net/",
+        "直接播放": "1",
+        "数组": "class=\"video-item&&</div>&&",
+        "标题": "class=\"line-clamp-2\"&&>&&</a>",
+        "图片": "class=\"w-full h-full\"&&src=\"&&\"",
+        "链接": "data-url=\"&&\"",
+        "分类": "会所探花$160#乱伦换妻$166#中文字幕$165#黑料吃瓜$161#东南亚片$163#福利姬$162#港台三级$157#日韩三级$158#欧美三级$159#无码AV$168#成人综艺$167#国产精选$170#91制片厂$139#其它传媒$141#果冻$140#麻豆$142",
+        "分类url": "https://sex166.net/video-cid/{cateId}.html?page={catePg}"
+    }
+},
 
     {
+        "key": "AV影院",
+        "name": "AV影院",
+        "type": 3,
+        "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "图片": "data-src=\"&&\"",
+            "标题": "title=\"&&\"",
+            "链接": "href=\"&&\"",
+            "主页url": "https://wyaslcwgroup.cfd/",
+            "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
+            "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+        }
+    },
+    {
+        "key": "av01",
+        "name": "💗┃💋AV01┃💠",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "playerType": 2,
+        "style": {
+            "type": "rect",
+            "ratio": 1.77
+        },
+        "ext": {
+            "数组": "class=\"col-sm-6 col-md-4&&class=\"duration&&</div>",
+            "直接播放": "1",
+            "请求头": "手机",
+            "主页url": "https://www.av01.tv/tw",
+            "搜索url": "https://www.av01.tv/tw/search/videos?search_query={wd}&page={pg}",
+            "链接": "href=\"&&\"",
+            "图片": "data-src=\"&&\"",
+            "分类url": "https://www.av01.tv/tw/{cateId}?page={catePg}",
+            "分类": "BD有码$videos/bd-censored#BD无码$videos/bd-uncensored#有码$videos/censored#无码$videos/uncensored/#FC2$videos/bd"
+        }
+    },
+    
+    {
+            "key": "绝美视频",
+            "name": "🔞绝美视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://www.juemei.fun/",
+                "分类url": "https://www.juemei.fun/type/{cateId}-{catePg}.html;;z",
+                "分类": "tsuki$1#jeehyeon$13#YeonHwa$2#KYUL$3#ChoiApple$4#클로이 요가 Chloe YOGA$5#jiyoung$12#임제리 IMJERRY LOOKBOOK$7#Ajin lookbook$8#엔픽컴퍼니 Official$9#Saki Vlog$10#HAATSSOl 햇쏠 LOOKBOOK VLOGER$11#yunji$14#GGotBBang TV$15#슬렌서아 Slenn Seoah$6"
+            }
+        },
+        
+
+       {
+      "key": "JAVSB",
+      "name": "🔞JAVSB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "ext": {
+        "主页url": "https://jav.sb/",
+        "直接播放": "1",
+        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "href=\"&&\"",
+        "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+        "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
+      }
+    },
+    {
+      "key": "JAVDAY",
+      "name": "🔞JAVDAY",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "ext": {
+        "主页url": "https://javday.tv/",
+        "直接播放": "1",
+        "数组": "lazy loaded\"&&</a>",
+        "图片": "style=\"background-image: url(&&);\"",
+        "标题": "class=\"title\"&&</span>",
+        "副标题": "class=\"number\">&&</span>",
+        "简介": "title\"&&</span>",
+        "链接": "href=\"&&\"",
+        "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
+        "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
+      }
+    },
+   {
+      "key": "Eighteen",
+      "name": "🔞Eighteen┃科学",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
+      "key": "sb",
+      "name": "sexbj|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      },
+      "ext": {
+        "数组": "<article&&</article>",
+        "直接播放": "1",
+        "图片": "data-src=\"&&\"",
+        "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest",
+        "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
+      }
+    },
+    {
+      "key": "肉视频",
+      "name": "🔞肉視頻|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "ext": {
+        "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
+        "直接播放": "1",
+        "分类": "國產AV$國產AV#探花$探花#自拍流出$自拍流出#日本$日本"
+      }
+    },
+ 
+    {
+      "key": "18AV",
+      "name": "🔞18AV┃科学",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+  
+   {
+      "key": "Jable",
+      "name": "🔞Jable┃科学",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 0,
+      "recordable": 0,
+      
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+   {
       "key": "你好帅",
       "name": "短剧",
       "type": 3,
@@ -108,16 +330,7 @@
         "分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
       }
     },
-   	{
-      "key": "AV_Netflav",
-      "name": "🔞Netflav",
-      "type": 3,
-      "api": "csp_Netflav",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar":"./lib/netflav.jar"
-       },
+
     {
       "key": "乐哥特供-色优酷AV",
       "name": "👍优酷┃AV",
@@ -586,6 +799,19 @@
       }
     },
 
+    {
+      "key": "Supjav",
+      "name": "🔞Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
 
     {
       "key": " AV影院",
@@ -1104,7 +1330,17 @@
       "timeout": 60,
       "ext": "null$$$proxy"
     },
-  
+    {
+      "key": "av188",
+      "name": "🔞Netflav",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+      "type": 3,
+      "api": "csp_Netflav",
+      "searchable": 0,
+      "changeable": 0,
+      "categories": ["無碼", "有碼", "女優", "最受歡迎", "中文字幕", "類别"]
+    },
+
 
     {
       "key": "影视",
