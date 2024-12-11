@@ -109,7 +109,7 @@
             "name": "🔞绝美视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "jar": "./lib/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -127,7 +127,7 @@
       "name": "🔞JAVSB",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "./lib/XBPQ.jar",
       "ext": {
         "主页url": "https://jav.sb/",
         "直接播放": "1",
@@ -144,7 +144,7 @@
       "name": "🔞JAVDAY",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "./lib/XBPQ.jar",
       "ext": {
         "主页url": "https://javday.tv/",
         "直接播放": "1",
@@ -177,7 +177,7 @@
       "name": "sexbj|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "./lib/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -195,7 +195,7 @@
       "name": "🔞肉視頻|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "./lib/XBPQ.jar",
       "ext": {
         "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
         "直接播放": "1",
