@@ -255,6 +255,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		{"key": "🐮牛牛资源","name": "牛牛资源","type": 0,"api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml","playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=","filterable": 1},
 		{
 			"key": "素白白",
 			"name": "👑素白白👑",
@@ -361,6 +362,12 @@
 				"类型": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#奇幻片$qihuanpian#犯罪片$fanzuipian#悬疑片$xuanyipian#纪录片$jilupian#伦理片$lunlipian#动画片$donghuapian#老电影$laodianying||国产剧$guochanju#香港剧$xianggangju#台湾剧$diwanju#日本剧$ribenju#韩国剧$hanguoju#泰国剧$taiguoju#欧美剧$oumeiju#欧美剧$oumeiju#海外剧$haiwaiju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综<艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#港台动漫$gangtaidongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#海外动漫$haiwaidongman||空"
 			}
 		},
+		 {"key": "华为吧资源",  "name": "🔞华为吧",  "type": 1,  "api": "https://hw8.live/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		{"key": "快车资源",  "name": "快车",  "type": 1,  "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		 {"key": "暴风资源",  "name": "暴风资源",  "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		 {"key": "最大资源",  "name": "最大",  "type": 1,  "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		   {"key": "天空资源",  "name": "天空",  "type": 1,  "api": "https://api.tiankongapi.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		 {"key": "vodimg资源",  "name": "vodimg",  "type": 1,  "api": "https://cj.vodimg.top/api.php/provide/vod/&type=2&mid=1",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		{
 			"key": "Aries不承担任何风险-森林CINEMA",
 			"name": "🌳森林┃影视",
