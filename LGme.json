@@ -60,8 +60,8 @@
         "链接": "data-url=\"&&\"",
         "分类": "会所探花$160#乱伦换妻$166#中文字幕$165#黑料吃瓜$161#东南亚片$163#福利姬$162#港台三级$157#日韩三级$158#欧美三级$159#无码AV$168#成人综艺$167#国产精选$170#91制片厂$139#其它传媒$141#果冻$140#麻豆$142",
         "分类url": "https://sex166.net/video-cid/{cateId}.html?page={catePg}"
-    }
-},
+           }
+    },
 
     {
         "key": "AV影院",
@@ -104,78 +104,7 @@
             "分类": "BD有码$videos/bd-censored#BD无码$videos/bd-uncensored#有码$videos/censored#无码$videos/uncensored/#FC2$videos/bd"
         }
     },
-     {
-            "key": "csp_xBPQ_香蕉AV解说",
-            "name": "🏆香蕉解说",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://d.kstore.dev/download/4344/XBPQ/AV解说.json"
-        },
-        {
-      "key": "csp_xBPQ_香蕉超清",
-      "name": "🏆香蕉超清",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://d.kstore.dev/download/4344/XBPQ/新香蕉超清资源.json"
-      },
-        
-        {
-       "key": "csp_xBPQ_香蕉国产",
-       "name": "🏆香蕉国产",
-       "type": 3,
-       "api": "csp_xBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-        "ext": "https://d.kstore.dev/download/4344/XBPQ/新香蕉国产传媒.json"
-     },
-     {
-       "key": "csp_xBPQ_香蕉久久热",
-       "name": "🏆香蕉久久热",
-       "type": 3,
-       "api": "csp_xBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-      "ext": "https://d.kstore.dev/download/4344/XBPQ/新香蕉久久热.json"
-      },
-      {
-        "key": "csp_xBPQ_香蕉废柴",
-        "name": "🏆香蕉废柴",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,    
-        "ext": "https://d.kstore.dev/download/4344/XBPQ/新香蕉废柴网.json "
-      },
-      {
-      "key": "csp_香蕉资源",
-      "name": "🏆香蕉中文",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://d.kstore.dev/download/4344/XBPQ/香蕉资源.json"
-      },
-     
     
-        {
-        "key": "csp_xBPQ_香蕉搜索",
-        "name": "🏆麻豆女优",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-          "ext": "https://d.kstore.dev/download/4344/XBPQ/香蕉搜索.json"},
     {
             "key": "绝美视频",
             "name": "🔞绝美视频",
