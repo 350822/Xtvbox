@@ -329,7 +329,7 @@
     },
 	
     {
-      "key": "zp066",
+      "key": "番茄",
       "name": "🔞番茄资源",
       "type": 0,
       "api": "https://fqzy.me//api.php/provide/vod/at/xml",
@@ -339,7 +339,7 @@
     },
     
 	{
-      "key": "zp061",
+      "key": "优优",
       "name": "🔞优优资源网",
       "type": 0,
       "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml/",
@@ -349,7 +349,7 @@
     },
 	
 	{
-      "key": "zp062",
+      "key": "桃花资源",
       "name": "🔞桃花资源",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
@@ -358,7 +358,7 @@
       "filterable": 0
     },
 		{
-      "key": "zp064",
+      "key": "色戒X资源",
       "name": "🔞色戒X资源",
       "type": 1,
       "api": "https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list",
