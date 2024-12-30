@@ -470,7 +470,7 @@
       "changeable": 1
     },
 	{"key":"辣椒资源","name":"🔞辣椒","type":1,"api":"http://api.11bat.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
-    {"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1}
+    {"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     {"key":"*葡萄资源","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod_dx.php","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     {"key": "apilj.com","name": "🔞紅椒","type": 1,"api": "http://apilj.com/api.php/provide/vod/at/json/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
     {"key": "速播",  "name": "🔞 成人频道[速播]",  "type": 1,  "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
