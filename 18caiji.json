@@ -286,8 +286,8 @@
     {
       "key": "zp059",
       "name": "🔞采集.番号资源①",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -330,14 +330,46 @@
 	
     {
       "key": "zp066",
-      "name": "🔞花椒资源-失效",
+      "name": "🔞番茄资源",
       "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     
+	{
+      "key": "zp061",
+      "name": "🔞优优资源网",
+      "type": 0,
+      "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
+	{
+      "key": "zp062",
+      "name": "🔞桃花资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+		{
+      "key": "zp064",
+      "name": "🔞色戒X资源",
+      "type": 1,
+      "api": "https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
+	 {"key": "https://1080zyk6.com/",  "name": "1080zyk优质",  "type": 1,  "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ "福利"]},
+	
+	
     {
       "key": "zp123",
       "name": "🔞采集.色猫资源④",
@@ -438,7 +470,7 @@
       "changeable": 1
     },
 	{"key":"辣椒资源","name":"🔞辣椒","type":1,"api":"http://api.11bat.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
-    {"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
+    {"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1}
     {"key":"*葡萄资源","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod_dx.php","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     {"key": "apilj.com","name": "🔞紅椒","type": 1,"api": "http://apilj.com/api.php/provide/vod/at/json/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
     {"key": "速播",  "name": "🔞 成人频道[速播]",  "type": 1,  "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
