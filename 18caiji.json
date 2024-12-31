@@ -24,6 +24,27 @@
     {"key":"*91麻豆4x","name":"🔞91麻豆⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
+	
+	 {
+      "key": "三级",
+      "name": "三级全",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
+	 {
+      "key": "花猫",
+      "name": "花猫",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
 	{
       "key": "api.sexnguon.com",
       "name": "🔞色南国✈️",
