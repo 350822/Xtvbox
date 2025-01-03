@@ -11,25 +11,7 @@
       }
     },
 	
-	
-	 {
-        "key": "AV影院1",
-        "name": "AVtime",
-        "type": 3,
-        "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-            "图片": "data-src=\"&&\"",
-            "标题": "title=\"&&\"",
-            "链接": "href=\"&&\"",
-            "主页url": "https://avtime.tv/",
-            "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#伦理$25#韩国$36",
-            "分类url": "https://avtime.tv/vodshow/{cateId}--------{catePg}---/"
-        }
-    },
+
 	
 	
 	
