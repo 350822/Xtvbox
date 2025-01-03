@@ -3,17 +3,6 @@
   //type,0表达xml，1表达json，3表达jar内置json
     "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "sites": [
-
-      {"key": "AvTime","name": "AvTime","type": 3,"api": "csp_AvTime","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/avtime.json","style": {"type": "rect","ratio": 1.6}},
-	
-	
-	
-   {"key":"csp_XYQHiker_javmenu","name": "🔞javmenu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmenu.json","style": {"type": "rect","ratio": 1.6}},
-	
-{"key":"csp_XYQHiker_javmunu","name": "🔞javmunu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmunu.json","style": {"type": "rect","ratio": 1.6}},
-	
-	{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
-
     
      {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
       "style": {
@@ -21,6 +10,29 @@
         "ratio": 1.5
       }
     },
+	
+	
+	 {
+        "key": "AV影院1",
+        "name": "AVtime",
+        "type": 3,
+        "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "图片": "data-src=\"&&\"",
+            "标题": "title=\"&&\"",
+            "链接": "href=\"&&\"",
+            "主页url": "https://avtime.tv/",
+            "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#伦理$25#韩国$36",
+            "分类url": "https://avtime.tv/vodshow/{cateId}--------{catePg}---/"
+        }
+    },
+	
+	
+	
      {
             "key": "13AV",
             "name": "🔞13AV",
