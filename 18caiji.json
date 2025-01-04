@@ -1,9 +1,7 @@
  { "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "sites": [
-    //type,0表达xml，1表达json，3表达jar内置json
-
-   
-     {  "key": "91md",
+    { //type,0表达xml，1表达json，3表达jar内置json
+      "key": "91md",
       "name": "🔞91麻豆①",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
@@ -27,15 +25,7 @@
     {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
 	
-	 {
-      "key": "三级",
-      "name": "三级全",
-      "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+	
 	
 	
 	 {
@@ -81,53 +71,9 @@
 	{"key": "百万", "name": "18+百万资源", "type": 0, "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 	{"key":"gay资源","name":"18+gay资源","type":1,"api":"https://gayapi.com/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	
-	 {
-            "key": "虎牙",
-            "name": "🟣虎牙伦理1",
-            "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/?ac=listfrom/hym3u8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "非凡资源",
-            "name": "🟣非凡伦理2",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playurl": "https://ffzyplayer.com/?url=",
-            "categories": [
-                "伦理片"
-            ]
-        },
-	{
-            "key": "鸡坤资源",
-            "name": "🈲🔞鸡坤-精品🐵",
-            "type": 1,
-            "api": "https://jkunzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+
        
-   
-       
-        {
-            "key": "量子",
-            "name": "🈲🔞量子-花海",
-            "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-       
+     
      
 	{
       "key": "美少女",
@@ -384,7 +330,7 @@
 		{
       "key": "色戒X资源",
       "name": "🔞色戒X资源",
-      "type": 1,
+      "type": 0,
       "api": "https://sjzy.tv/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -441,15 +387,7 @@
     },
     {"key": "湿乐园","name": "🔞湿乐园资源","type": 1,"api": "https://xxavs.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"}, 
      {"key": "华为吧资源",  "name": "🔞华为吧-伦理",  "type": 1,  "api": "https://hw8.live/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
-    {
-      "key": "易看",
-      "name": "🔞易看资源站-伦理A",
-      "type": 1,
-      "api": "https://api.ekanapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-	{"key": "易看资源","name": "🔞易看资源-伦理B","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"},
+   
     {
       "key": "阿坤",
       "name": "🔞采集.JKUN资源站",
@@ -459,7 +397,7 @@
       "filterable": 1
     },
 	{"key": "chujia.cc","name": "🔞精东资源","type": 1,"api": "http://chujia.cc/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
-	     {"key": "暴风资源",  "name": "🔞暴风资源-伦理",  "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+	 
 	 {"key": "富二代","name": "🔞富二代资源","type": 0,"api": "http://f2dcj6.com/sapi?ac=list&pg=1","filterable": 0},
      {"key": "艾蛋影视",  "name": "🔞艾蛋影视-福利资源",  "type": 1,  "api": "https://www.lovedan.net/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 	{
@@ -497,10 +435,7 @@
     {"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     {"key":"*葡萄资源","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod_dx.php","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     {"key": "apilj.com","name": "🔞紅椒","type": 1,"api": "http://apilj.com/api.php/provide/vod/at/json/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
-    {"key": "速播",  "name": "🔞 成人频道[速播]",  "type": 1,  "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
-    {"key": "ikun",  "name": "🔞 成人频道[ikun]",  "type": 1,  "api": "https://ikunzyapi.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
-    {"key": "光速",  "name": "🔞 成人频道[光速]",  "type": 1,  "api": "https://api.guangsuapi.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
-    {"key": "百度",  "name": "🔞 成人频道[百度]",  "type": 1,  "api": "https://bdzy2.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
+    
     {"key":"998资源(采集)🔞","name":"🔞998资源","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     {"key": "apiyutu.com","name": "🔞玉兔资源","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
    
