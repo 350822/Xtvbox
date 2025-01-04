@@ -64,7 +64,7 @@
 	
 		
 	
-		},
+		
 		 {"key": "https://huawei8.live/",  "name": "华为吧",  "type": 0,  "api": "https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
 		 
 		{"key": "https://kuaichezy.com/",  "name": "快车",  "type": 1,  "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
