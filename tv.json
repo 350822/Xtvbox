@@ -1802,44 +1802,7 @@
 				"搜索链接": "href=\"&&\""
 			}
 		},
-		{
-			"key": "✨宇逍遥✨",
-			"name": "✨宇逍遥✨",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://www.yumv.cn/vodshow/dianying---伦理--------.html",
-				"分类url": "https://www.yumv.cn/vodshow/dianying-{cateId}--伦理-----{catePg}---.html",
-				"分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-				"分类值": "*",
-				"数组": "默认--wrapper-pic\"&&</li>||搜索--wrapper-pic\"&&</li>",
-				"标题": "title=\"&&\"",
-				"图片": "data-original=\"&&\"",
-				"副标题": "✨+overflow\">&&</",
-				"链接": "href=\"&&\"",
-				"状态": "状态：&&</span>",
-				"导演": "✨+导演：&&</span>",
-				"主演": "✨+主演：&&</span>",
-				"简介": "✨+简介：&&</div>",
-				"线路数组": "swiper-slide ewave-tab&&</li>",
-				"线路标题": "✨+>&&<",
-				"播放二次截取": "",
-				"播放数组": "playlist-sort-content\"&&</ul>",
-				"倒序": "0",
-				"播放列表": "<a&&/a>",
-				"播放标题": "✨+>&&<",
-				"播放链接": "href=\"&&\"",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"搜索请求头": "User-Agent$MOBILE_UA",
-				"搜索url": "/vodsearch/{wd}----------{pg}---.html"
-			}
-		},
+		
 		{
 			"key": "︎奇优影院1",
 			"name": "🚴‍♂️奇优┃影视",
@@ -1856,7 +1819,7 @@
 				"线路数组": "<li id=\"tab&&</li>",
 				"线路标题": ">&&</a >",
 				"分类url": "http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
+				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
 				"排序": "按时间$time#按人气$hit"
 			}
 		},
@@ -1915,8 +1878,8 @@
 				"播放标题": ">&&</a >",
 				"播放链接": "href=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类": "伦理$lunlipian#电影$dy#电视剧$dsj#综艺$zy#动漫$dm#体育$tiyu#短剧$duanju",
-				"类型": "空||动作片$dz#喜剧片$xj#爱情片$aq#科幻片$kh#恐怖片$kb#剧情片$jq#战争片$zz#纪录片$jilupian#电影解说$dianyingjieshuo||大陆剧$dalu#港台剧$gangtai#美剧$meiju#海外剧$qita#韩国剧$rihan#香港剧$xianggangju#日本剧$ribenju#泰国剧$taiguoju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||足球$zuqiu#篮球$lanqiu#网球$wangqiu#斯诺克$sinuoke||空"
+				"分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm#体育$tiyu#短剧$duanju",
+				"类型": "动作片$dz#喜剧片$xj#爱情片$aq#科幻片$kh#恐怖片$kb#剧情片$jq#战争片$zz#纪录片$jilupian#电影解说$dianyingjieshuo||大陆剧$dalu#港台剧$gangtai#美剧$meiju#海外剧$qita#韩国剧$rihan#香港剧$xianggangju#日本剧$ribenju#泰国剧$taiguoju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||足球$zuqiu#篮球$lanqiu#网球$wangqiu#斯诺克$sinuoke||空"
 			}
 		},
 		{
@@ -2066,8 +2029,8 @@
 				"播放标题": "blank\">&&<",
 				"嗅探词": "index.m3u8?",
 				"分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
-				"分类": "电影$dianying#电视剧$dianshiju#午夜剧场$wuyejuchang#综艺娱乐$zongyiyule#动漫动画$dongmandonghua#精品套图$taotu#音乐MV$yuleMV",
-				"剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#VIP$fuli#动画$dhdy国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#微短剧$duanju伦理片$lunli#写真$xiezhen#主播$zhubo大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman空大陆$yanchanghui#港台$MV#日韩$KTV#欧美$bangjiangli"
+				"分类": "电影$dianying#电视剧$dianshiju#综艺娱乐$zongyiyule#动漫动画$dongmandonghua#精品套图$taotu#音乐MV$yuleMV",
+				"剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#VIP$fuli#动画$dhdy国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman空大陆$yanchanghui#港台$MV#日韩$KTV#欧美$bangjiangli"
 			}
 		},
 		{
@@ -2591,32 +2554,7 @@
 				"语言值": "*"
 			}
 		},
-		{
-			"key": "俺要社",
-			"name": "⛩️神社┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"ext": {
-				"主页url": "https://hongkongdoll.anyaoshe16.top/",
-				"数组": "<a&&</a>",
-				"直接播放": "1",
-				"图片": "url(&&)",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"简介": "description\" content=\"&&\"",
-				"搜索模式": "1",
-				"搜索url": "https://hongkongdoll.anyaoshe16.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
-				"分类url": "https://hongkongdoll.anyaoshe16.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				"分类数组": "<a&&</a>",
-				"分类标题": ">&&</a>",
-				"分类ID": "/type/id/&&.html"
-			}
-		},
+	
 		{
 			"key": "火狼影院",
 			"name": "❤️火狼影院🎦",
@@ -2651,7 +2589,7 @@
 				"搜索模式": "1",
 				"搜索url": "http://www.sijiaokeji.com/search/?wd={wd}",
 				"分类url": "http://www.sijiaokeji.com/{cateId}/index_{class}_{area}_{year}__{by}_{catePg}.html",
-				"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#伦理$aiqingpian"
+				"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
 			}
 		},
 		{

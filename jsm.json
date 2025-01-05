@@ -1,7 +1,35 @@
-{
+{    //type,0表达xml，1表达json，3表达jar内置json
 	"spider": "./pg.jar",
 	"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 	"sites": [
+	
+	
+		{
+			"key": "俺要社",
+			"name": "⛩️神社┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"ext": {
+				"主页url": "https://hongkongdoll.anyaoshe16.top/",
+				"数组": "<a&&</a>",
+				"直接播放": "1",
+				"图片": "url(&&)",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"简介": "description\" content=\"&&\"",
+				"搜索模式": "1",
+				"搜索url": "https://hongkongdoll.anyaoshe16.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
+				"分类url": "https://hongkongdoll.anyaoshe16.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+				"分类数组": "<a&&</a>",
+				"分类标题": ">&&</a>",
+				"分类ID": "/type/id/&&.html"
+			}
+		},
 		 
 	{
 			"key": "天天影视",
