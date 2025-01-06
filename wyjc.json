@@ -50,18 +50,9 @@
                 "伦理片"
             ]
         },
-        {
-      "key": "易看",
-      "name": "易看资源站-伦理A",
-      "type": 1,
-      "api": "https://api.ekanapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-	{"key": "易看资源","name": "易看资源-伦理B","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"},
-		    {"key": "暴风资源",  "name": "暴风资源-伦理",  "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
-		
-	
+     
+	{"key": "易看资源","name": "易看资源","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"},
+		    {"key": "暴风资源",  "name": "暴风资源",  "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": ["理论片" ]},
 		
 	
 		
@@ -76,9 +67,7 @@
     {"key": "ikun",  "name": "成人频道[ikun]",  "type": 1,  "api": "https://ikunzyapi.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
     {"key": "光速",  "name": "成人频道[光速]",  "type": 1,  "api": "https://api.guangsuapi.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
     
-		 {"key": "https://bfzy2.tv/",  "name": "暴风资源",  "type": 0,  "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["理伦片"]},
-		 
-		{"key": "https://ikunzy.net/",  "name": "iKun资源",  "type": 1,  "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["理伦片"]},
+		
 		 {"key": "https://suonizy.com/",  "name": "索尼资源",  "type": 0,  "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
 		 {"key": "https://www.jisuzy.com/",  "name": "极速资源",  "type": 1,  "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
 		   {"key": "https://haohuazy.com/",  "name": "豪华资源",  "type": 1,  "api": "https://hhzyapi.com/api.php/provide/vod/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
@@ -264,30 +253,7 @@
 		},
 		
 	
-		
-		{
-			"key": "Aries不承担任何风险-91电影网",
-			"name": "9️⃣91┃影视",
-			"type": 3,
-			"jar": "./lib/xyqxbpq.jar",
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "gb2312",
-				"主页url": "http://m.aogetu.com/wuyejuchang/",
-				"播放数组": "plau-ul-list&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href='&&'",
-				"播放标题": "blank\">&&<",
-				"嗅探词": "index.m3u8?",
-				"分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
-				"分类": "午夜剧场$wuyejuchang",
-				"剧情": "伦理片$lunli"
-			}
-		},
+	
 		
 		  	{
 			"key": "哈哈✌大伦理",
