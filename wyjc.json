@@ -1,5 +1,5 @@
 {
-	
+	"spider": "./pg.jar",
 	"sites": [
 		
 	
@@ -86,12 +86,12 @@
 		
 		{"key": "https://www.wujinzy.net/",  "name": "无尽资源",  "type": 0,  "api": "https://wjzyapi.com/api.php/provide/vod/from/wjm3u8/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
 		 
-		
+		 {"key": "YY",  "name": "最大资源",  "type": 1,  "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
 		 {"key": "https://www.ryzyw.com/help/",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
 		 
-		  
+		  {"key": "https://www.hongniuzy.com/index.php/help",  "name": "红牛资源网",  "type": 0,  "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
 		 
-		
+		 {"key": "https://jinyingzy.com/index.php/help",  "name": "金鹰资源网",  "type": 1,  "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
 		
 		{"key": "360",  "name": "360资源",  "type": 1,  "api": "https://360zy.com/api.php/provide/vod/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
 		  {"key": "YY",  "name": "丫丫资源",  "type": 1,  "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
@@ -325,7 +325,16 @@
 	{"key": "91電影網","name": "🍖｜九一電影網｜獨創-伦理","type": 3,"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/PG.jar","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/xyqxbpq.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {    "请求头": "User-Agent$MOBILE_UA",    "编码": "gb2312",    "主页url": "http://m.aogetu.com/",    "播放数组": "plau-ul-list&&</ul>",    "播放列表": "<a&&a>",    "播放链接": "href='&&'",    "播放标题": "_blank\">&&<",    "嗅探词": "index.m3u8?",    "分类url": "http://m.aogetu.com/wuyejuchang/{cateId}/index{catePg}.html[http://m.aogetu.com/wuyejuchang/{cateId}/]",    "分类": "倫理$lunli#寫真$xiezhen#主播$zhubo"}    }
 		
 	],
-	
+	"lives": [
+		{
+			"name": "电视直播",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Gather",
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+	],
 	"doh": [
 		{
 			"name": "Google",

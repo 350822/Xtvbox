@@ -362,6 +362,11 @@
 		   {"key": "https://huyazy.com/",  "name": "虎牙资源",  "type": 1,  "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["动作片","记录片","科幻片","犯罪片","喜剧片","爱情片","战争片","剧情片","短剧","韩剧","内地剧","日剧","香港剧","台湾剧","马泰剧","欧美剧"]},
 		
 		
+		 {"key": "https://www.hongniuzy.com/",  "name": "红牛资源",  "type": 1,  "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",  "searchable": 1,  "changeable": 1,  "categories": ["动作片","电影","科幻片","犯罪片","爱情片","战争片","剧情片","综艺","韩剧","国产剧","日剧","港澳剧","台湾剧","泰剧","欧美剧"]},
+		 {"key": "https://jinyingzy.com/",  "name": "金鹰采集",  "type": 0,  "api": "https://jyzyapi.com/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": ["动作片","电影","科幻片","犯罪片","喜剧片","爱情片","记录片","战争片","剧情片","短剧","综艺","韩剧","内地剧","日剧","香港剧","台湾剧","马泰剧","欧美剧"]},
+		
+		 {"key": "https://zuida001.com/",  "name": "最大资源",  "type": 1,  "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["邵氏电影","4K电影","动作片","电影","科幻片","犯罪片","喜剧片","爱情片","记录片","战争片","剧情片","年代穿越","现代言情","港台综艺","日韩综艺","大陆综艺","韩剧","国产剧","日剧","港剧","台剧","泰剧","欧美剧"]},
+		
 		
 		 {"key": "https://bfzy2.tv/",  "name": "暴风资源",  "type": 0,  "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["动作片","电影","科幻片","犯罪片","喜剧片","爱情片","记录片","战争片","剧情片","穿越年代","现代言情","港台综艺","日韩综艺","大陆综艺","韩国剧","国产剧","日本剧","香港剧","台湾剧","泰国剧","欧美剧"]},
 		 
