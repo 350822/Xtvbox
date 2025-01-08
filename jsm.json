@@ -58,8 +58,8 @@
 				"线路标题": "tab\"&&</",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"分类url": "http://www.hnylcdz.cn/show/{cateId}-{area}-------{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30",
-				"类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空"
+				"分类": "伦理片$30",
+				"类型": "空"
 			}
 		},
 		 {
@@ -95,9 +95,9 @@
 				"搜索模式": "1",
 				"搜索url": "/vodsearch/{wd}----------{pg}---.html",
 				"分类url": "http://xtk.njjinwu.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-				"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#午夜剧场$lunlipian#网红短剧$duanju#动画片$donghuapian#邵氏电影$shaoshidianying",
+				"分类": "午夜剧场$lunlipian",
 				"筛选": "1",
-				"类型": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#犯罪片$fanzuipian#战争片$zhanzhengpian||国产剧$guocanju#港剧$gangju#台湾剧$taiwanju#韩剧$hanju#日剧$riju#泰剧$taiju#欧美剧$oumeiju#海外剧$haiwaiju||大陆综艺$daluzongyi#日韩综艺$rihanzongyi#港台综艺$gangtaizongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#海外动漫$haiwaidongman||空||空||空||空"
+				"类型": "空"
 			}
 		},
 		
@@ -234,9 +234,9 @@
 				"播放链接": "href=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"分类url": "http://www.cgwall.cn/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#动漫$4#短剧$3#伦理片$30#微视频$36",
+				"分类": "伦理片$30",
 				"筛选": "1",
-				"类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||重生民国$21#现代言情$22#反转爽文$23||空||空"
+				"类型": "空"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"播放链接": "href=\"&&\"",
 				"跳转解析": "data-play=\"&&\"",
 				"分类url": "https://www.huolang.pro/zhao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$5#网红短剧$35"
+				"分类": "午夜剧场$5"
 			}
 		},
 		{
@@ -322,8 +322,8 @@
 				"线路标题": ">&&</",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"分类url": "http://www.360shipu.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30#电影解说$39",
-				"类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#战争片$13#犯罪片$29||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20#短剧$43||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
+				"分类": "伦理片$30",
+				"类型": "空"
 			}
 		},
 		{
@@ -350,8 +350,8 @@
 				"线路标题": ">&&</",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"分类url": "https://www.sdzpw.cn/fm/1-t/c_{cateId}-{catePg}.html",
-				"分类": "电影$1#连续剧$2#综艺$3#动漫$4#伦理片$29",
-				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空||空"
+				"分类": "伦理片$29",
+				"类型": "空"
 			}
 		},
 		{
@@ -380,8 +380,8 @@
 				"线路标题": "alt=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"分类url": "https://www.zgbdzs.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "电影$1#连续剧$2#综艺$3#动漫$4#夜间福利$21#体育赛事$26#短剧$27",
-				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空||空||空||空"
+				"分类": "夜间福利$21",
+				"类型": "空"
 			}
 		},
 		{
@@ -411,7 +411,7 @@
 				"线路标题": "<span>&&</span>",
 				"跳转播放链接": "urlDecode(Base64(var player_*url\":\"&&\"))",
 				"分类url": "https://www.ths864.com/wbs/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-				"分类": "电影$WbMovie#电视剧$WbTv#动漫$WbCartoon#综艺$WbVariety#理论片$Sex"
+				"分类": "理论片$Sex"
 			}
 		},
 		
@@ -578,8 +578,8 @@
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"主页url": "http://114bate.com/",
 				"分类url": "http://114bate.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$38#伦理片$30",
-				"类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
+				"分类": "伦理片$30",
+				"类型": "空"
 			}
 		},
 		{
@@ -609,8 +609,8 @@
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"主页url": "https://www.szhsjsj.com/",
 				"分类url": "https://www.szhsjsj.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#日韩伦理$30",
-				"类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空"
+				"分类": "日韩伦理$30",
+				"类型": "空"
 			}
 		},
 		
@@ -628,8 +628,8 @@
 				"主页url": "https://www.xzweiheng.com/",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"分类url": "https://www.xzweiheng.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$34",
-				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#午夜剧场$33||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空||空"
+				"分类": "电影$1",
+				"类型": "午夜剧场$33"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 				"线路数组": "<li id=\"tab&&</li>",
 				"线路标题": ">&&</a >",
 				"分类url": "http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
+				"分类": "伦理$6",
 				"排序": "按时间$time#按人气$hit"
 			}
 		},
@@ -715,8 +715,8 @@
 				"播放标题": ">&&</a >",
 				"播放链接": "href=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类": "伦理$lunlipian#电影$dy#电视剧$dsj#综艺$zy#动漫$dm#体育$tiyu#短剧$duanju",
-				"类型": "空||动作片$dz#喜剧片$xj#爱情片$aq#科幻片$kh#恐怖片$kb#剧情片$jq#战争片$zz#纪录片$jilupian#电影解说$dianyingjieshuo||大陆剧$dalu#港台剧$gangtai#美剧$meiju#海外剧$qita#韩国剧$rihan#香港剧$xianggangju#日本剧$ribenju#泰国剧$taiguoju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||足球$zuqiu#篮球$lanqiu#网球$wangqiu#斯诺克$sinuoke||空"
+				"分类": "伦理$lunlipian",
+				"类型": "空"
 			}
 		},
 		{
@@ -792,8 +792,8 @@
 				"播放标题": "blank\">&&<",
 				"嗅探词": "index.m3u8?",
 				"分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
-				"分类": "电影$dianying#电视剧$dianshiju#午夜剧场$wuyejuchang#综艺娱乐$zongyiyule#动漫动画$dongmandonghua#精品套图$taotu#音乐MV$yuleMV",
-				"剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#VIP$fuli#动画$dhdy国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#微短剧$duanju伦理片$lunli#写真$xiezhen#主播$zhubo大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman空大陆$yanchanghui#港台$MV#日韩$KTV#欧美$bangjiangli"
+				"分类": "午夜剧场$wuyejuchang",
+				"剧情": "微短剧$duanju伦理片$lunli#写真$xiezhen"
 			}
 		},
 		{
