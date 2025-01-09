@@ -31,7 +31,9 @@
     "搜索图片": "https://obs.gduamoe.com/+https://obs.gduamoe.com/&&\"+?x-image-process=image/resize,w_260,h_357/quality,q_65/format,webp",
     "搜索链接": "https://m.zjuys.com/detail/+vodId\":&&,\"",
     "简介": "✨指间的黑客为您介绍剧情✨+</label>&&</div>",
-    "分类url": "/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/page/{catePg};;mrcWR",
+    //"分类url": "/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/page/{catePg};;mrcWR",
+    "分类url": "/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/3/sortOrder/0/page/{catePg};;mrcWR",
+                            
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
       "筛选": "1",
     "类型": "喜剧片$1/type/22#动作片$1/type/23#科幻片$1/type/30#爱情片$1/type/26#悬疑片$1/type/27#奇幻片$1/type/87#剧情片$1/type/37#恐怖片$1/type/36#犯罪片$1/type/35#动画片$1/type/33#惊悚片$1/type/34#战争片$1/type/25#冒险片$1/type/31#灾难片$1/type/81#理论片$1/type/83#其他片$1/type/43||国产剧$2/type/14#欧美剧$2/type/15#港台剧$2/type/16#日韩剧$2/type/62#其他剧$2/type/68||国产综艺$3/type/69#港台综艺$3/type/70#日韩综艺$3/type/72#欧美综艺$3/type/73#其他综艺$3/type/74||国产动漫$4/type/75#日韩动漫$4/type/76#欧美动漫$4/type/77",
