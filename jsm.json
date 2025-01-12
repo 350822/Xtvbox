@@ -48,12 +48,7 @@
       "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
     },
 
-    {
-      "key": "RouVideo",
-      "name": "🔞肉视频┃科学",
-      "type": 3,
-      "api": "csp_RouVideo"
-    },
+   
 	   
 	 {
             "key": "Xojav",
@@ -133,7 +128,7 @@
 	
 		{
 			"key": "Aries不承担任何风险-动漫TV网",
-			"name": "🇹TV┃动漫-伦理",
+			"name": "🇹TV┃动漫-伦理-已失效",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
@@ -163,40 +158,10 @@
 				"类型": "空"
 			}
 		},
-		{
-			"key": "汪汪汪影院",
-			"name": "🐶🔞汪汪┃影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://www.ffssaa7.site/",
-				"二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
-				"数组": "module-item-pic&&module-item\"",
-				"标题": "title=\"&&\"",
-				"图片": "data-src=\"&&\"",
-				"副标题": "class=\"module-item-text\">&&</div>",
-				"链接": "href=\"&&\"",
-				"播放数组": "class=\"scroll-content\"&&</div>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": "<span>&&</span>",
-				"线路数组": "module-tab-item tab-item&&</div>",
-				"线路标题": "<span>&&</span>",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类url": "https://www.ffssaa7.site/index.php/vod/show/by/score/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
-				"分类": "鲨鱼资源$1#115$2#乐播$3#辣椒资源$4",
-				"类型": "精品推荐$20#国产情色$21#日本无码$22#AV明星$23#中文字幕$24#网红主播$25#成人动漫$26#欧美情色$27#国模私拍$28#长腿丝袜$29#邻家人妻$30#韩国伦理$31#香港伦理$37||抖音视频$39#韩国主播$40#网红头条$41#网爆黑料$42#欧美无码$43#女优明星$44#SM调教$45#AV解说$46#无码专区$56#麻豆传媒$50#制服诱惑$51#三级伦理$52#AI换脸$53#中文字幕$54#卡通动漫$47#欧美系列$48#美女主播$49#强奸乱伦$57#国产自拍$55#熟女人妻$38||亚洲情色$58#国产主播$59#国产自拍$60#无码专区$61#欧美性爱$62#熟女人妻$63#强奸乱伦$64#巨乳美乳$65#中文字幕$66#制服诱惑$67#女同性恋$68#卡通动画$69#视频伦理$70#少女萝莉$71#重口色情$72#人兽性交$73||国产自拍$74#欧美极品$75#日韩无码$76#AV明星$77#中文字幕$78#动漫精品$79#极骚萝莉$80#人妖视频$81#重咸口味$82#强奸乱伦$83#三级自慰$84#HEYZO$85#独家DMM$86#HEY诱惑$87#童颜巨乳$88#高潮喷吹$89#激情口交$90#绝美少女$91#首次亮相$92#独家擂台格斗$95"
-			}
-		},
+	
 		{
 			"key": "Aries不承担任何风险-火狼影视",
-			"name": "🐺火狼┃影视-午夜剧场",
+			"name": "🐺火狼┃影视-午夜剧场 有毛病",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
@@ -223,33 +188,7 @@
 				"分类": "午夜剧场$5"
 			}
 		},
-		{
-			"key": "Aries不承担任何风险-360影视",
-			"name": "3️⃣360┃影视-伦理",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "http://www.360shipu.com/",
-				"数组": "lazyload\"&&</a>",
-				"标题": "title=\"&&\"",
-				"图片": "data-original=\"&&\"",
-				"副标题": "right\">&&</span>",
-				"链接": "href=\"&&\"",
-				"播放数组": "playlist clearfix&&</ul>",
-				"播放列表": "<li&&</li>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": ">&&</",
-				"线路数组": "<h3 class=*title\">&&h3>",
-				"线路标题": ">&&</",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类url": "http://www.360shipu.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "伦理片$30",
-				"类型": "空"
-			}
-		},
+		
 		{
 			"key": "Aries不承担任何风险-第七影院",
 			"name": "7️⃣第七┃影院-伦理",
@@ -475,87 +414,11 @@
       ]
     },
 	
-	{
-			"key": "Aries不承担任何风险-鹊桥影院",
-			"name": "🌉鹊桥┃影院-伦理",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"二次截取": "myui-vodlist clearfix\">&&</ul>",
-				"数组": "lazyload&&</li>",
-				"标题": "title=\"&&\"",
-				"图片": "data-original=\"&&\"",
-				"副标题": "right\">&&</span>",
-				"链接": "href=\"&&\"",
-				"播放数组": "playlist clearfix\"&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": ">&&</",
-				"线路数组": "class=\"stui-vodlist__head\"&&span>",
-				"线路标题": "\">&&</",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"主页url": "http://114bate.com/",
-				"分类url": "http://114bate.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-				"分类": "伦理片$30",
-				"类型": "空"
-			}
-		},
-		{
-			"key": "Aries不承担任何风险-开心影院",
-			"name": "😃开心┃影院-伦理",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"二次截取": "myui-vodlist clearfix\">&&</ul>",
-				"数组": "myui-vodlist__box\"&&</a>",
-				"标题": "title=\"&&\"",
-				"图片": "data-original=\"&&\"",
-				"副标题": "text-right\">&&</span>",
-				"链接": "href=\"&&\"",
-				"播放数组": "list sort-list clearfix&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": "第+>&&</+集",
-				"线路数组": "href=\"\\#playlist&&li>",
-				"线路标题": "tab\">&&</a>",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"主页url": "https://www.szhsjsj.com/",
-				"分类url": "https://www.szhsjsj.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "日韩伦理$30",
-				"类型": "空"
-			}
-		},
-		
+	
+
 	
 		
-		{
-			"key": "Aries不承担任何风险-皮皮影院",
-			"name": "⛹️‍♀️皮皮┃影院-午夜剧场",
-			"type": 3,
-			"jar": "./lib/xyqxbpq.jar",
-			"api": "csp_XBPQ",
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://www.xzweiheng.com/",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类url": "https://www.xzweiheng.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
-				"分类": "电影$1",
-				"类型": "午夜剧场$33"
-			}
-		},
+		
 		{
 			"key": "✨宇逍遥✨",
 			"name": "✨宇逍遥-伦理✨",
@@ -614,35 +477,7 @@
 				"排序": "按时间$time#按人气$hit"
 			}
 		},
-		{
-			"key": "布卡影院",
-			"name": "⛟布卡┃影视-伦理",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"分类url": "https://www.bk-yy.com//vodtype/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-				"数组": "pic\">&&</li>",
-				"标题": "title=\"&&\"",
-				"图片": "data-original=\"&&\"",
-				"副标题": "text-overflow\">&&</p >",
-				"链接": "href=\"&&\"",
-				"简介": "简介：&&</p >",
-				"线路数组": "slide ewave-tab active&&/em>",
-				"线路标题": ">&&<",
-				"播放数组": "ewave-tab-content&&</ul>",
-				"倒序": "0",
-				"播放列表": "<a&&</li>",
-				"播放标题": ">&&</a >",
-				"播放链接": "href=\"&&\"",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类": "伦理$lunlipian",
-				"类型": "空"
-			}
-		},
+	
 		{
 			"key": "猛男日妓",
 			"name": "🔞猛男日妓",
